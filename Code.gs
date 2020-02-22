@@ -4,16 +4,21 @@
 
 function sendMeMyTasks() {
 
-    // Here's a little hack to get all your tasklist's ids.
-    // Comment the rest of the code and uncomment this following lines, run it and open the App Script console. There it is : your tasklist's ids.
-    // var taskLists = Tasks.Tasklists.list();
-    // if (taskLists.items) {
-    //   for (var i = 0; i < taskLists.items.length; i++) {
-    //     var taskList = taskLists.items[i];
-    //     Logger.log('Task list with title "%s" and ID "%s" was found.',
-    //                taskList.title, taskList.id);
-    //   }
-    // } 
+    /* 
+    Here's a little hack to get all your tasklist's ids.
+    Comment the rest of the code and uncomment this following lines, run it and open the App Script console. 
+    There it is : your tasklist's ids.
+    
+    var taskLists = Tasks.Tasklists.list();
+    if (taskLists.items) {
+      for (var i = 0; i < taskLists.items.length; i++) {
+        var taskList = taskLists.items[i];
+        Logger.log('Task list with title "%s" and ID "%s" was found.',
+                   taskList.title, taskList.id);
+      }
+    } 
+    
+    */
 
     // the task list id, change it and choose it carefully !
     var taskListId = "" ; 
