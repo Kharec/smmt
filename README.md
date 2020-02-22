@@ -6,6 +6,8 @@ This repository is the home of a simple [Google Apps script](https://developers.
 
 You need an account at our friends Google, a task list in Google Task, and a Gmail account, which comes obviously with your Google account.
 
+Also, Google Task is an advanced service for Google Script, you will need to [enable it](https://developers.google.com/apps-script/guides/services/advanced#enabling_advanced_services).
+
 ## Setup
 
 You'll have to start a new Apps Script project in [Google Script](https://script.google.com/) tool. Name it, then add a main file in it : Code.gs. Copy the code in it, and finally save it.
