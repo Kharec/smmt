@@ -1,5 +1,5 @@
 /**
- * Lists tasks titles and send a list by email every sunday at 23pm.
+ * Lists tasks titles and send a list by email.
  */
 
 function sendMeMyTasks() {
@@ -17,7 +17,7 @@ function sendMeMyTasks() {
                    taskList.title, taskList.id);
       }
     } 
-    
+
     */
 
     // the task list id, change it and choose it carefully !
