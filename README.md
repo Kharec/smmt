@@ -35,6 +35,6 @@ Save this trigger.
 You're all setup !
 
 ## Licence & Copyright
-This software is copyright (c) 2020 by Sandro CAZZANIGA.
+This software is copyright (c) 2021 by Sandro CAZZANIGA.
 
 This is free software, you can use/redistribute it and/or modify it under the GNU GPLv3 terms.
